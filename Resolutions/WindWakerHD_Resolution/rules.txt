@@ -16,7 +16,57 @@ $scaleShader = 1.0
 $aspectRatio = (16.0/9.0)
 
 [Preset]
+name = 1366x768
+$width = 1280
+$height = 720
+$gameWidth = 1920
+$gameHeight = 1080
+$lightSource = 1.0
+$scaleShader = 1.0
+$aspectRatio = (16.0/9.0)
+
+[Preset]
 name = 1280x720
+$width = 1280
+$height = 720
+$gameWidth = 1920
+$gameHeight = 1080
+$lightSource = 1.0
+$scaleShader = 1.0
+$aspectRatio = (16.0/9.0)
+
+[Preset]
+name = 1024x576
+$width = 1280
+$height = 720
+$gameWidth = 1920
+$gameHeight = 1080
+$lightSource = 1.0
+$scaleShader = 1.0
+$aspectRatio = (16.0/9.0)
+
+[Preset]
+name = 960x540
+$width = 1280
+$height = 720
+$gameWidth = 1920
+$gameHeight = 1080
+$lightSource = 1.0
+$scaleShader = 1.0
+$aspectRatio = (16.0/9.0)
+
+[Preset]
+name = 854x480
+$width = 1280
+$height = 720
+$gameWidth = 1920
+$gameHeight = 1080
+$lightSource = 1.0
+$scaleShader = 1.0
+$aspectRatio = (16.0/9.0)
+
+[Preset]
+name = 640x360
 $width = 1280
 $height = 720
 $gameWidth = 1920
